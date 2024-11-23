@@ -1,0 +1,11 @@
+# Custom dataset configuration for YOLOv5 training with your data
+path: /content/traindata  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+test:  # test images (optional, leave blank if not available)
+
+# Classes
+names:
+  0: Leukocyte
+  1: Cornified
+  2: Nucleated
