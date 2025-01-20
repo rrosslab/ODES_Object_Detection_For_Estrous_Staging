@@ -8,7 +8,8 @@
 
 For a step-by-step video guide on setting up and using ODES, watch the instructional video on YouTube:
 
-![ODES Tutorial Video]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=lUOiC_60pRg))
+[ODES Tutorial Video](https://www.youtube.com/watch?v=lUOiC_60pRg)
+
 
 ---
 
