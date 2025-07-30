@@ -110,12 +110,13 @@ Follow these steps each time you want to use ODES:
 
 To achieve the best results with ODES, please ensure your images are prepared according to the following guidelines:
 
+- **Objective Magnification:** 10X objective lens is recommended. The model was trained primarily on 10X images, so using this magnification aligns with the learned parameters and reduces variability in predictions.
+
 - **Image Format:** ODES supports the following image formats: PNG, JPG, JPEG, and BMP. While all these formats are compatible, PNG is recommended for faster processing. 
 
 - **Staining:** Ensure images are properly stained. Unstained images reduce the model's ability to accurately distinguish cell boundaries and characteristics, as it relies on these features to identify and classify cells effectively.
 
 - **Cell Clumping:** Avoid images where cells are clumped together. ODES may struggle to classify cells accurately when they overlap or lack clear boundaries, which can complicate the detection of individual cell features. This issue can be exacerbated by biological and histological factors, such as sticky vaginal excretions, which may lead to cell clumping. ODES is optimized for images with clear and distinct cell features, similar to human judgment processes.
-
 
 - **Cell Count:** Be aware that very low cell counts in images can make stage classification difficult.
 ---
