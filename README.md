@@ -1,7 +1,8 @@
 ## ODES (Object Detection for Estrous Staging)
 
-**ODES** is a machine learning tool that detects and classifies cell types to monitor the estrous cycle in female mice.
+**ODES** is a machine learning tool that analyzes **stained images** to detect and classify cell types for monitoring the estrous cycle in female mice.
 
+> **NOTE:** ODES is designed to work with **stained images**. Unstained or poorly stained images may lead to inaccurate results.
 ---
 
 ## Instructional Video
